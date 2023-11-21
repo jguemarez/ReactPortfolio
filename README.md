@@ -55,7 +55,7 @@ Disclaimer: Screenshots present the website as rendered on the Google Chrome Ver
 
 ![Resume](images/react5.png)
 
-6.The side uses the Bootstrap grid system (via importing the relevant components from the 'react-bootstrap' package), which ensures it is responsive:
+6.The site uses the Bootstrap grid system (via importing the relevant components from the 'react-bootstrap' package), which ensures it is responsive:
 
 ![Showcasing responsiveness](images/react6.png)
 
